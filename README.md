@@ -1,4 +1,4 @@
-# projects
+# voter-turnout
 
 This project takes a look at voter turnout in national elections in the US on a state-by-state basis over the past 20 years.
 
